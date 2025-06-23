@@ -12,15 +12,6 @@ This project is a complete end-to-end system that:
 ---
 ![image](https://github.com/user-attachments/assets/b47faf0d-abf7-4861-ab46-9733769e08df)
 
-Project Structure
-flipkart-scraper/
-├── api.py # Flask API to expose and display data
-├── scraper.py # Scraper script using BeautifulSoup
-├── db_config.py # MySQL DB connection utility
-├── templates/
-│ └── products.html # HTML template for /view route
-├── run_scraper.bat # Batch file for Task Scheduler
-├── venv/ # Virtual environment (auto-generated)
 
 ---
 
